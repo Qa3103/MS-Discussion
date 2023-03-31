@@ -13,11 +13,14 @@ public class HelloWorld {
         System.out.println(name);
         // testing1
 <<<<<<< HEAD
+<<<<<<< HEAD
         // testing3
         // testing3
         // testing2
         // hihi roy here testing
         // testing 5:15 pm
+=======
+>>>>>>> parent of 4bbae61 (Update HelloWorld.java)
 =======
 >>>>>>> parent of 4bbae61 (Update HelloWorld.java)
     }
