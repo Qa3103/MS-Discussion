@@ -12,9 +12,12 @@ public class HelloWorld {
 
         System.out.println(name);
         // testing1
+<<<<<<< HEAD
         // testing3
         // testing3
         // testing2
         // hihi roy here testing
+=======
+>>>>>>> parent of 4bbae61 (Update HelloWorld.java)
     }
 }
