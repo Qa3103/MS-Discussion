@@ -20,6 +20,9 @@ public class HelloWorld {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 845dff3 (Update HelloWorld.java)
         // hihi roy here testing
         // testing 5:15 pm
 =======
@@ -28,9 +31,12 @@ public class HelloWorld {
 >>>>>>> parent of 4bbae61 (Update HelloWorld.java)
 =======
 >>>>>>> parent of 9da91f3 (Update HelloWorld.java)
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 9da91f3 (Update HelloWorld.java)
 =======
 >>>>>>> parent of 9da91f3 (Update HelloWorld.java)
+=======
+>>>>>>> parent of 845dff3 (Update HelloWorld.java)
     }
 }
